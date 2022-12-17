@@ -354,7 +354,6 @@ importers:
       lodash: 4.17.21
       mincu-core: link:../core
       mincu-data: link:../data
-    devDependencies:
       react: 18.1.0
 
   packages/lib:
@@ -382,7 +381,6 @@ importers:
     dependencies:
       mincu-hooks: link:../hooks
       mincu-vanilla: link:../vanilla
-    devDependencies:
       react: 18.1.0
 
   packages/ui:
@@ -8001,7 +7999,6 @@ packages:
     engines: {node: '>=0.10.0'}
     dependencies:
       loose-envify: 1.4.0
-    dev: true
 
   /react/18.2.0:
     resolution: {integrity: sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ==}

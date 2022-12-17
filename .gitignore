@@ -84,3 +84,8 @@ jspm_packages/
 
 # Built files
 dist
+/.idea/.gitignore
+/.idea/mincu.iml
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
